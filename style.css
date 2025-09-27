@@ -340,3 +340,13 @@ footer {
   font-weight: bold;
   cursor: pointer;
 }
+
+.doctor-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%; /* para que sea circular */
+  background-image: url('C:\Users\CompuFire\.vscode\AppHospitalParcial-II'); /* ruta de la foto */
+  background-size: cover; /* cubre todo el div */
+  background-position: center; /* centra la imagen */
+  margin-right: 20px;
+}
